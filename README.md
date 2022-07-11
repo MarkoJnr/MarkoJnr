@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkoJnr
 - 👀 I’m interested in Python.
-- 🌱 I’m currently learning both of the above.
+- 🌱 I’m currently learning the above.
 - 💞️ I’m looking for ideas for a Python project.
 - 📫 How to reach me...markjnrd@msn.com
 
