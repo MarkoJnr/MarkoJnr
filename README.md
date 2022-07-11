@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkoJnr
-- 👀 I’m interested in SQL and JS.
+- 👀 I’m interested in Python.
 - 🌱 I’m currently learning both of the above.
-- 💞️ I’m looking to collaborate on creating a SQL database and looking for ideas for a JS project.
+- 💞️ I’m looking for ideas for a Python project.
 - 📫 How to reach me...markjnrd@msn.com
 
 <!---
