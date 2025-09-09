@@ -1,12 +1,19 @@
-👋 Hi, I'm @MarkoJnr, and I have a passion for Python programming. I enjoy learning and building new projects with Python.
+👋 Hi, I'm @MarkoJnr!  
 
-👀 I'm interested in exploring various aspects of Python, including data analysis, machine learning, web development, and more.
+🐍 I’m currently learning **Python** and enjoy building small projects as I grow my skills.  
+📚 I like turning what I learn into **simple tutorials** that can help other beginners.  
 
-🌱 Currently, I'm learning new techniques and best practices in Python to enhance my skills and knowledge.
+👀 I’m curious about many areas of Python, especially:  
+- Data analysis  
+- Machine learning  
+- Web development  
 
-💞️ I'm looking to collaborate with other Python enthusiasts to work on exciting projects and share ideas for new ones.
+🌱 Right now, I’m focused on learning best practices and improving step by step.  
 
-📫 If you have any ideas or suggestions for a Python project or want to collaborate, you can reach me at markjnrd@msn.com. Let's connect and build something amazing with Python!
+💡 I’d love to **collaborate with other Python learners and enthusiasts** — sharing ideas, solving problems together, and building fun projects.  
+
+📫 Got an idea for a beginner-friendly project or want to collaborate?  
+Reach me at **markjnrd@msn.com** — let’s connect and build something amazing with Python!
 <!---
 MarkoJnr/MarkoJnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
